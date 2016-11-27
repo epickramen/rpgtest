@@ -3,6 +3,7 @@ import java.awt.image.BufferedImage;
 public class SpriteSheet {
 	
 	private BufferedImage sheet;
+	private BufferedImage sheet1;
 	
 	public SpriteSheet(BufferedImage sheet){
 		
